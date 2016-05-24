@@ -10,7 +10,7 @@ body {
   background-color: gray;
   border-radius: 0;
   border: 2px solid black;
-  padding: 5px;
+  padding: 0px;
 }
 
 .navbar-brand {
@@ -34,7 +34,6 @@ body {
 }
 
 #nav-list {
-  /*position: absolute; */
   margin-top: 0px;
   margin-bottom: 0px;
   background-color: white;
